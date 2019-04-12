@@ -1,0 +1,12 @@
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\VisuPro\MVC\RESTfulAPI_CRUD\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
